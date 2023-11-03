@@ -1,1 +1,1 @@
-phase 1 : Idea of the project 
+Phase 1: Problem Definition and Design Thinking
